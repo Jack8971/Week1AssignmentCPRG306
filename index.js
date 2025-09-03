@@ -14,6 +14,7 @@ const users = [
   { id: 10, name: "Padmé Amidala", age: 27 },
 ];
 
+
 // broken test data for exercise 6
 
 // 1. Print out the names of each character in the console, then render them in the HTML list with id "names-list"
