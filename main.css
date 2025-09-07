@@ -7,7 +7,7 @@
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 20x;/* fixed and added x */
+  line-height: 20px;/* fixed and added px */
   color: rgb(133, 133, 133); /* changed font color for better readability */
   background-color: #f5f5f5;
   padding: 20px;
