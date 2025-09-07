@@ -7,8 +7,8 @@
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  line-height: 20;
-  color: lightgrey;
+  line-height: 20x;/* fixed and added x */
+  color: rgb(133, 133, 133); /* changed font color for better readability */
   background-color: #f5f5f5;
   padding: 20px;
 }
@@ -121,7 +121,7 @@ ul li:last-child {
   font-size: 0.9rem;
 }
 
-/* Empty state styles */
+/* Empty state styles */  /* not in html come back for java? */
 .empty-list {
   color: #6c757d;
   font-style: italic;
